@@ -27,7 +27,7 @@ public class Ejercicios {
 		System.out.println("Precio inicial: " + precioInicial);
 		System.out.println("Precio final: " + precioFinal);
 		System.out.printf("Precio final: %,.2f€ \n" , precioFinal);
-		System.out.println("Precio final: " + precioFinal + "\u20AC");
+		//System.out.println("Precio final: " + precioFinal + "\u20AC");
 		
 		
 	}
