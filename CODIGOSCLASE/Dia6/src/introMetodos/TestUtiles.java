@@ -15,6 +15,8 @@ public class TestUtiles {
 		
 		int suma = Utiles.sumaMatriz(prueba);
 		System.out.println("La suma es : " + suma);
+		
+		Utiles.llenarMatriz(prueba);
 	}
 
 }
