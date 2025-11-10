@@ -9,6 +9,21 @@ public class MetodosReturn {
 	
 	//Método que calcula la suma de dos números(acceso público)
 	
+	/**
+	 * Este método suma dos números
+	 * @param x primer número
+	 * @param y segundo número
+	 * @param → describe un parámetro del método.
+	   @return → describe el valor que devuelve un método.
+		
+		@throws → describe las excepciones que puede lanzar un método.
+		
+		@see → referencia otra clase o método.
+		
+		@author → autor del código.
+		
+		@version → versión del código.
+			 */
 	public static int sumar(int x,int y) {
 		
 		int suma = x + y;			

@@ -16,11 +16,11 @@ public class TestMetodosMatrices {
 		
 		MetodosVoid.mostrarArray(negativos);
 		
-		//Generar JavaDoc
-		//Generar Archivo jar
+		
 		//Método para redimensionar una matriz
 		//Concepto avanzado de clase.
 		//Hacer ejercicios de repaso.
+		
 		
 	}
 
