@@ -10,9 +10,9 @@ public class Mono extends Animal {
 		this.alergiaCacahuete = alergiaCacahuete;
 	}
 	
-	@Override
-	public void hablar() {
+	
+	/*public void hablar() {
 		// TODO Auto-generated method stub
 		System.out.println("Hablo como un mono");
-	}
+	}*/
 }

@@ -11,7 +11,7 @@ public class Animal {
 	}
 
 
-	public void hablar() {
+	protected void hablar() {
 		System.out.println("Hablo como un animal");
 	}
 	
