@@ -37,6 +37,7 @@ public class MiVentana4 extends JFrame {
 		 //Distribuir los componentes en el JFrame
 		 setLayout(new FlowLayout());
 		 add(btnUno);
+		 
 		 add(btnDos);
 		 add(btnTres);
 		 add(txtResultado);
