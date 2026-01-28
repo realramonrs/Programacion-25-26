@@ -20,7 +20,6 @@ public class TablaJugadores extends JDialog {
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 	private JTable table;
-	private JTextField textField;
 
 	/**
 	 * Launch the application.
@@ -67,13 +66,6 @@ public class TablaJugadores extends JDialog {
 		JButton btnNewButton = new JButton("New button");
 		btnNewButton.setFont(new Font("Arial", Font.BOLD, 20));
 		panel.add(btnNewButton);
-		
-		textField = new JTextField();
-		contentPane.add(textField, BorderLayout.WEST);
-		textField.setColumns(10);
-		
-		JButton button = new JButton("New button");
-		contentPane.add(button, BorderLayout.NORTH);
 		
 		this.setModal(true);
 		setVisible(true);
